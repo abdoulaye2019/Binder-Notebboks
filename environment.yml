@@ -1,6 +1,5 @@
 name: pyspark_project
 channels:
-  -conda-forge
+    - conda-forge
 dependencies:
-  -python=3
-  -pyspark=3.2.0 
+    - pyspark
