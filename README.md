@@ -1,1 +1,1 @@
- [![image](https://binder.pangeo.io/badge_logo.svg)](https://github.com/abdoulaye2019/Binder-Notebboks)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/abdoulaye2019/Binder-Notebboks/HEAD)
